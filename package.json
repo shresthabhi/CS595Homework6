@@ -1,0 +1,28 @@
+{
+  "name": "cs595homework6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shresthabhi/CS595Homework6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shresthabhi/CS595Homework6/issues"
+  },
+  "homepage": "https://github.com/shresthabhi/CS595Homework6#readme",
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "@aztec/bb.js": "^2.1.6"
+  }
+}
